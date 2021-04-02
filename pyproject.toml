@@ -9,6 +9,7 @@ python = "3.8"
 google-cloud-bigquery = "^2.13.1"
 pandas = "^1.2.3"
 pyarrow = "^3.0.0"
+pandas-profiling = "^2.11.0"
 
 [tool.poetry.dev-dependencies]
 
